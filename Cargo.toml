@@ -1,0 +1,3 @@
+[workspace]
+members = ["rv-server", "rv-client"]
+resolver = "2"
